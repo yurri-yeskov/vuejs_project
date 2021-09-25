@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bbachi/vuejs-nginx-docker.git"
+    "url": "git+https://github.com/yurri-yeskov/vuejs_project.git"
   },
   "author": "Bhargav Bachina",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bbachi/vuejs-nginx-docker/issues"
+    "url": "https://github.com/yurri-yeskov/vuejs_project/issues"
   },
-  "homepage": "https://github.com/bbachi/vuejs-nginx-docker#readme",
+  "homepage": "https://github.com/yurri-yeskov/vuejs_project#readme",
   "dependencies": {
     "express": "^4.17.1",
     "http-proxy-middleware": "^1.0.4",
